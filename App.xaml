@@ -1,0 +1,16 @@
+﻿<Application x:Class="HD2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="BlueBrush" Color="#FF00BCF2" />
+            <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+            <Style TargetType="Button">
+                <Setter Property="Height" Value="208" />
+                <Setter Property="Width" Value="208" />
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

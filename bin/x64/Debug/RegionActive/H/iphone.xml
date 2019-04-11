@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAVED>
+<REGION>region1</REGION>
+<xUpperLeft>490</xUpperLeft>
+<yUpperLeft>0</yUpperLeft>
+<xLowerRight>940</xLowerRight>
+<yLowerRight>85</yLowerRight>
+<action>click</action>
+
+<REGION>region2</REGION>
+<xUpperLeft>0</xUpperLeft>
+<yUpperLeft>90</yUpperLeft>
+<xLowerRight>1366</xLowerRight>
+<yLowerRight>768</yLowerRight>
+<action>click</action>
+</SAVED>

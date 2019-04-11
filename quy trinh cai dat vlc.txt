@@ -1,0 +1,10 @@
+*cai vlc tren o C
+*sua trong file config.ini: 
+	[LOG]
+	vlcpath="C:/VLC/"
+	(duong dan den vlc.exe)
+*cai screen capture recorder 
+*register screen capture recorder : run as admin file screen-capture-recorder-to-video-windows-free-master\source_code\Win32\Debug\
+* co the phai config screen capture recorder : screen-capture-recorder-to-video-windows-free-master\configuration_setup_utility\generic_run_rb.bat
+*right click SOUND/recording devices, disable tat ca device tru Microphone array(tuc la kinect)
+	

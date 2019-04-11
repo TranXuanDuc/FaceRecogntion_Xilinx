@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAVED>
+<REGION>region1</REGION>
+<xUpperLeft>7</xUpperLeft>
+<yUpperLeft>6</yUpperLeft>
+<xLowerRight>634</xLowerRight>
+<yLowerRight>716</yLowerRight>
+<xMouseDefault>544</xMouseDefault>
+<yMouseDefault>701</yMouseDefault>
+<action>click</action>
+
+<REGION>region2</REGION>
+<xUpperLeft>670</xUpperLeft>
+<yUpperLeft>4</yUpperLeft>
+<xLowerRight>1264</xLowerRight>
+<yLowerRight>710</yLowerRight>
+<xMouseDefault>733</xMouseDefault>
+<yMouseDefault>703</yMouseDefault>
+<action>click</action>
+</SAVED>

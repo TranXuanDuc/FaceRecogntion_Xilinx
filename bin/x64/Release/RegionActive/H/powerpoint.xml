@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAVED>
+<REGION>region1</REGION>
+<xUpperLeft>163</xUpperLeft>
+<yUpperLeft>3</yUpperLeft>
+<xLowerRight>1112</xLowerRight>
+<yLowerRight>713</yLowerRight>
+<xMouseDefault>0</xMouseDefault>
+<yMouseDefault>0</yMouseDefault>
+<action>swipe</action>
+<action1>swiperight:sendkey:{RIGHT}</action1>
+<action2>swipeleft:sendkey:{LEFT}</action2> 
+</SAVED>

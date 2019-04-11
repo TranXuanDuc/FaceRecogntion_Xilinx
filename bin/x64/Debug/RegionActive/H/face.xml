@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAVED>
+<REGION>region1</REGION>
+<xUpperLeft>490</xUpperLeft>
+<yUpperLeft>0</yUpperLeft>
+<xLowerRight>940</xLowerRight>
+<yLowerRight>85</yLowerRight>
+<action>click</action>
+
+<REGION>region2</REGION>
+<xUpperLeft>1238</xUpperLeft>
+<yUpperLeft>109</yUpperLeft>
+<xLowerRight>1331</xLowerRight>
+<yLowerRight>762</yLowerRight>
+<action>click</action>
+
+<REGION>region3</REGION>
+<xUpperLeft>1352</xUpperLeft>
+<yUpperLeft>108</yUpperLeft>
+<xLowerRight>1359</xLowerRight>
+<yLowerRight>699</yLowerRight>
+<action>click</action>
+
+</SAVED>

@@ -1,0 +1,2 @@
+05:16:17,HMI,checkInteractive,no,Stop interative
+

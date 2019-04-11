@@ -1,0 +1,79 @@
+Include:Sql dotnet connector 
+		emguCV
+
+V22.6
+- Remove Background //todo
+- Zoom //todo
+- Them ghi LOG txt de ghi vao CSDL
+- User View
+- Them ghi LOG dem so nguoi xem trong thoi gian t
+- Swipe //todo
+- Grid Region 
+- Action Region //todo
+- Track Closest User
+- ghi html log
+V23.1
+- Gio tay kich hoat tuong tac
+- Auto Engage User
+- ghi html log
+- Them ghi LOG txt de ghi vao CSDL
+- User View //todo: user view trong hoi mo
+- Them ghi LOG dem so nguoi xem trong thoi gian t
+V23.2
+
+
+
+V23.3
+HD trong suot, chay duoc angry bird
+bug: chay lau low memory
+V23.4
+them chuc nang thay nen
+bug: chay lau van bi low memory
+reset khi memory cao vuot qua .. MB hoac detect low memory
+V23.5
+Them chuc nang screen shot trong luc thay nen
+Fix duong dan vlc va video output, screenshot output
+V23.6
+Thay doi Usermanager, Test
+V23.7
+Fix chup screenshot
+V23.7a stable
+bat grid, swipe
+v23.7b
+them Userview
+ghi html log, log anh depth
+v23.7c
+fix swipe , chuyen thresold sang 0.35 (old 0.5)
+v23.8
+track closest user
+v23.8a
+hand pointer: chong rung average
+v23.9
+fix loi hd ngung chay neu an alt tab khi dang tuong tac
+
+v23.10
+bo chup anh khi thay nen (dung cho viettin bank)
+v23.10a
+v23.9a
+update tren mysql cho face detect
+v23.11a
+che do chup anh thay nen:
+	1: karaoke
+	2: tuyet thai
+	3: vien phi
+v23.12
+update khoang cach ng dung tren mysql de dung trong app qr code
+v23.13
+anh thay nen co lam min
+bo track closest user
+v23.14
+fix bug voi bat tat chup anh thay nen
+v23.15
+them preview anh, doi thu muc chup anh sang google drive
+v23.16 
+Bo xu ly anh thay nen emgu
+
+
+todo:
+- sua anh thay nen
+- huong phat trien
